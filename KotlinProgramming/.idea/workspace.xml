@@ -59,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chap02.section2.MinMaxKt">
+  <component name="RunManager" selected="Kotlin.chap02.section2.StringTestKt">
     <configuration name="chap02.section1.DefaultPackageKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -99,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chap02.section2.StringTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap02.section2.StringTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chap02.section2.ValVarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -114,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chap02.section2.StringTestKt" />
         <item itemvalue="Kotlin.chap02.section2.MinMaxKt" />
         <item itemvalue="Kotlin.chap02.section2.ValVarKt" />
         <item itemvalue="Kotlin.chap02.section1.UserClassImportKt" />
