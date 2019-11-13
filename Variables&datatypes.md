@@ -1,4 +1,4 @@
-# **Kotlin chapter 2**
+# **Kotlin chapter 1**
 ## **변수와 자료형**
 > val username: String = "Kildong"
 - 변경되지 않는 변수 username이 String자료형으로 선언되었고
