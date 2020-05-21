@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9216c06b-4982-4410-9025-2932a968d521" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Algorism._1000Kt">
+  <component name="RunManager" selected="Kotlin.chap02.section1.LaxyKt">
     <configuration name="Algorism._1000Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -69,14 +69,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap02.section1.UserClassImportKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="chap02.section1.LaxyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section1.UserClassImportKt" />
+      <option name="MAIN_CLASS_NAME" value="chap02.section1.LaxyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chap02.section1.LaxyKt" />
         <item itemvalue="Kotlin.Algorism._1000Kt" />
         <item itemvalue="Kotlin.chap02.section2.StringTestKt" />
         <item itemvalue="Kotlin.chap02.section2.MinMaxKt" />
         <item itemvalue="Kotlin.chap02.section2.ValVarKt" />
-        <item itemvalue="Kotlin.chap02.section1.UserClassImportKt" />
       </list>
     </recent_temporary>
   </component>
